@@ -1,5 +1,3 @@
-// Nhập <script src="js.js"></script> vào cuối thẻ html để import file js
-// 
 //        Khai báo các biến tọa độ
 var locationX, locationY, locationX1, locationY1, locationX2, locationY2;
 var getLocation = [];

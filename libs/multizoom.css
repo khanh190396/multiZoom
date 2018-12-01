@@ -1,5 +1,3 @@
-/* Nhập <link rel="stylesheet" href="css.css"> vào phần head để import file css */
-
 #zoomImage {
     z-index: 1000;
     width:600px; 
