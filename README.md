@@ -14,8 +14,8 @@ Hướng dẫn sử dụng:
         + git clone https://github.com/khanh190396/multiZoom
         + Nhúng link css vào phần head và js vào file html vào cuối hoặc sau phần body
     - Cách 2: Nhúng trực tiếp từ link online
-        + Link css:
-        + Link js:
+        + Link css: https://tnkhanh996.000webhostapp.com/multiZoom/css.css
+        + Link js: https://tnkhanh996.000webhostapp.com/multiZoom/zoomjs.js
     - Sử dụng: 
         + Thêm class targetImage vào ảnh
         + Lăn con lăn khi đang trỏ chuột vào target image để theo đổi độ phóng to
