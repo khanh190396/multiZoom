@@ -1,0 +1,19 @@
+/* Nhập <link rel="stylesheet" href="css.css"> vào phần head để import file css */
+
+#zoomImage {
+    z-index: 1000;
+    width:600px; 
+    height:450px; 
+    display: none;
+    position: fixed;
+    background: no-repeat;
+}
+#zoomLens {
+    border: 1px solid black;
+    position: fixed;
+    z-index: 1200;
+    display: none;
+    cursor: zoom-in;
+    opacity: 0.3;
+    background-color: white;
+}

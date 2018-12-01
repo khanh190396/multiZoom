@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <title>Zoom image</title>
+        <link rel="stylesheet" href="../libs/multizoom.css">
+        <style>
+            #zoomImage {
+                width: 300px;
+                height: 300px;
+                border: 1px solid black;                
+            }
+            .targetImage {
+                border: 1px solid grey;
+            }
+        </style>
+    <body>
+        <img class="targetImage" style="max-width: 50px" src="https://c1.staticflickr.com/8/7378/13997705508_a218e00c81_b.jpg" settingZoomImage="centre 0 centre 0"></br>
+        <img class="targetImage" src="https://404store.com/2017/08/15/4949794-random-image.jpg" settingZoomImage="right 0 top 0"></br>
+        <img class="targetImage" src="https://www.thisiscolossal.com/wp-content/uploads/2017/04/MatRandom_03.jpg"></br>
+    </body>
+    <script src="../libs/multizoom.js"></script>
+    <script>
+        settingZoomImage(["stick-right", 0, "stick-centre", 0]);
+    </script>
+</html>
