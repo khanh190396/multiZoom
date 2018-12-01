@@ -16,7 +16,9 @@ Hướng dẫn sử dụng:
     - Cách 2: Nhúng trực tiếp từ link online
         + Link css:
         + Link js:
-    - Sử dụng: thêm class targetImage vào ảnh
+    - Sử dụng: 
+        + Thêm class targetImage vào ảnh
+        + Lăn con lăn khi đang trỏ chuột vào target image để theo đổi độ phóng to
     - Cài đặt bổ sung cho zoom image của tất cả các target image:
         Thêm đoạn javascript sau vào sau phần nhúng file js
 
