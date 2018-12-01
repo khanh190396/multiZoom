@@ -1,5 +1,5 @@
 # multiZoom
-
+<pre>
 Giới thiệu:
     - Chức năng multi zoom giúp bạn:
 	+ Tạo hiệu ứng phóng to cho ảnh khi di chuột qua
@@ -50,4 +50,4 @@ Hướng dẫn sử dụng:
         Cách dùng giống với hàm tổng quát đã nêu ở trên
         Ảnh nào thêm thuộc tính này sẽ dùng cài đặt riêng thay vì cài đặt tổng quát
         Ví dụ: settingZoomImage="centre 0 centre 0"
-
+</pre>
