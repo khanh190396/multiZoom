@@ -18,7 +18,7 @@ Hướng dẫn sử dụng:
         + Link js: https://tnkhanh996.000webhostapp.com/multiZoom/zoomjs.js
     - Sử dụng: 
         + Thêm class targetImage vào ảnh
-        + Lăn con lăn khi đang trỏ chuột vào target image để theo đổi độ phóng to
+        + Lăn con lăn khi đang trỏ chuột vào target image để thay đổi độ phóng to
     - Cài đặt bổ sung cho zoom image của tất cả các target image:
         Thêm đoạn javascript sau vào sau phần nhúng file js
 
