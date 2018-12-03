@@ -10,9 +10,10 @@ Giới thiệu:
 	+ Zoom lens tự động điều chỉnh hình dạng theo tỉ lệ kích thước của zoom image
 
 Hướng dẫn sử dụng:
+    - Nhúng thư viện jquery vào phần head: https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
     - Cách 1: Download source code về
         + git clone https://github.com/khanh190396/multiZoom
-        + Nhúng link css vào phần head và js vào file html vào cuối hoặc sau phần body
+        + Nhúng link css và js vào sau link jquery
     - Cách 2: Nhúng trực tiếp từ link online
         + Link css: https://tnkhanh996.000webhostapp.com/multiZoom/css.css
         + Link js: https://tnkhanh996.000webhostapp.com/multiZoom/zoomjs.js
