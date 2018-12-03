@@ -36,7 +36,7 @@ Hướng dẫn sử dụng:
                 "top": mép trên zoom image liền với mép trên màn hình
                 "bottom" tương tự "top"
                 "centre": zoom image căn giữa màn hình theo chiều dọc
-                "stick-centre": zoom image căn giữa target-image theo chiều dọc
+                "stick-centre": zoom image căn giữa target image theo chiều dọc
                 Định dạng string, phải để trong dấu nháy
             + MoveRight: zoom image dịch sang phải tính theo pixel
             + MoveBottom: zoom image dịch xuống dưới tính theo pixel
